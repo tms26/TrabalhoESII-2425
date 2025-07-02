@@ -1,0 +1,108 @@
+Name,Country,Weight,Unit,Process Type,ProductFlow Name,Flow Name,Unit,Category,Quantity,Tag,Type,Origin Country
+Running Shoes,Portugal,0.8,KG,RawMaterialProduction,Polyester Production,Petroleum,Liters,RawMaterial,0.3,Virgin,Input,Turkey
+Running Shoes,Portugal,0.8,KG,RawMaterialProduction,Nylon Production,Monomers,KG,RawMaterial,0.2,Virgin,Input,Germany
+Running Shoes,Portugal,0.8,KG,RawMaterialProduction,Cotton Cultivation,Cotton Production,SquareKilometers,LandOccupation,0.1,Virgin,Input,India
+Running Shoes,Portugal,0.8,KG,RawMaterialProduction,Polyurethane Production,Plastic Polymers,KG,RawMaterial,0.2,Virgin,Input,Italy
+Running Shoes,Portugal,0.8,KG,RawMaterialProduction,EVA Production,Ethylene,KG,RawMaterial,0.5,Virgin,Input,France
+Running Shoes,Portugal,0.8,KG,RawMaterialProduction,Diene Rubber Production,Copolymer Rubber,KG,RawMaterial,0.4,Virgin,Input,Thailand
+Running Shoes,Portugal,0.8,KG,RawMaterialProduction,Natural Rubber Cultivation,Natural rubber Production,SquareKilometers,LandOccupation,0.3,Virgin,Input,Brazil
+Running Shoes,Portugal,0.8,KG,RawMaterialProduction,Polypropylene Production,Propylene Gas,KG,RawMaterial,0.1,Virgin,Input,Poland
+Running Shoes,Portugal,0.8,KG,RawMaterialProduction,Pulp Production,Pulp Production,SquareKilometers,LandOccupation,0.2,Virgin,Input,Sweden
+Running Shoes,Portugal,0.8,KG,Manufacturing,Shoe Assembly,Leather,KG,RawMaterial,1.4,Virgin,Input,Italy
+Running Shoes,Portugal,0.8,KG,Manufacturing,Shoe Assembly,Rubber,SquareMeters,RawMaterial,1.2,Recycled,Input,Spain
+Running Shoes,Portugal,0.8,KG,Manufacturing,Shoe Assembly,Electricity,Kilowatts,HydroPowerEnergy,500,Virgin,Input,Portugal
+Running Shoes,Portugal,0.8,KG,Manufacturing,Cutting,Electricity,Kilowatts,SolarEnergy,300,Virgin,Input,Portugal
+Running Shoes,Portugal,0.8,KG,Manufacturing,Stitching,Electricity,Kilowatts,SolarEnergy,250,Virgin,Input,Portugal
+Running Shoes,Portugal,0.8,KG,Manufacturing,Assembling,Electricity,Kilowatts,WindEnergy,400,Virgin,Input,Portugal
+Running Shoes,Portugal,0.8,KG,Manufacturing,Packaging,Plastic,KG,RawMaterial,0.3,Virgin,Input,Germany
+Running Shoes,Portugal,0.8,KG,Manufacturing,Packaging,Cardboard,KG,RawMaterial,0.3,Virgin,Input,France
+Running Shoes,Portugal,0.8,KG,Transport,Material Transport,Polyester,Kilometers,SeaTransport,3000,Virgin,Input,Turkey
+Running Shoes,Portugal,0.8,KG,Transport,Material Transport,Nylon,Kilometers,LandTransport,1800,Virgin,Input,Germany
+Running Shoes,Portugal,0.8,KG,Transport,Material Transport,Cotton,Kilometers,SeaTransport,9000,Virgin,Input,India
+Running Shoes,Portugal,0.8,KG,Transport,Material Transport,Polyurethane,Kilometers,LandTransport,2000,Virgin,Input,Italy
+Running Shoes,Portugal,0.8,KG,Transport,Material Transport,EVA,Kilometers,LandTransport,1500,Virgin,Input,France
+Running Shoes,Portugal,0.8,KG,Transport,Material Transport,Diene rubber,Kilometers,SeaTransport,10000,Virgin,Input,Thailand
+Running Shoes,Portugal,0.8,KG,Transport,Material Transport,Natural rubber,Kilometers,SeaTransport,11000,Virgin,Input,Brazil
+Running Shoes,Portugal,0.8,KG,Transport,Material Transport,Polypropylene,Kilometers,LandTransport,2200,Virgin,Input,Poland
+Running Shoes,Portugal,0.8,KG,Transport,Material Transport,Pulp,Kilometers,LandTransport,2500,Virgin,Input,Sweden
+Name,Country,Weight,Unit,Process Type,ProductFlow Name,Flow Name,Unit,Category,Quantity,Tag,Type,Origin Country
+Running Shoes,Portugal,0.8,KG,RawMaterialProduction,Polyester Production,Petroleum,Liters,RawMaterial,0.3,Virgin,Input,Turkey
+Running Shoes,Portugal,0.8,KG,RawMaterialProduction,Nylon Production,Monomers,KG,RawMaterial,0.2,Virgin,Input,Germany
+Running Shoes,Portugal,0.8,KG,RawMaterialProduction,Cotton Cultivation,Cotton Production,SquareKilometers,LandOccupation,0.1,Virgin,Input,India
+Running Shoes,Portugal,0.8,KG,RawMaterialProduction,Polyurethane Production,Plastic Polymers,KG,RawMaterial,0.2,Virgin,Input,Italy
+Running Shoes,Portugal,0.8,KG,RawMaterialProduction,EVA Production,Ethylene,KG,RawMaterial,0.5,Virgin,Input,France
+Running Shoes,Portugal,0.8,KG,RawMaterialProduction,Diene Rubber Production,Copolymer Rubber,KG,RawMaterial,0.4,Virgin,Input,Thailand
+Running Shoes,Portugal,0.8,KG,RawMaterialProduction,Natural Rubber Cultivation,Natural rubber Production,SquareKilometers,LandOccupation,0.3,Virgin,Input,Brazil
+Running Shoes,Portugal,0.8,KG,RawMaterialProduction,Polypropylene Production,Propylene Gas,KG,RawMaterial,0.1,Virgin,Input,Poland
+Running Shoes,Portugal,0.8,KG,RawMaterialProduction,Pulp Production,Pulp Production,SquareKilometers,LandOccupation,0.2,Virgin,Input,Sweden
+Running Shoes,Portugal,0.8,KG,Manufacturing,Shoe Assembly,Leather,KG,RawMaterial,1.4,Virgin,Input,Italy
+Running Shoes,Portugal,0.8,KG,Manufacturing,Shoe Assembly,Rubber,SquareMeters,RawMaterial,1.2,Recycled,Input,Spain
+Running Shoes,Portugal,0.8,KG,Manufacturing,Shoe Assembly,Electricity,Kilowatts,HydroPowerEnergy,500,Virgin,Input,Portugal
+Running Shoes,Portugal,0.8,KG,Manufacturing,Cutting,Electricity,Kilowatts,SolarEnergy,300,Virgin,Input,Portugal
+Running Shoes,Portugal,0.8,KG,Manufacturing,Stitching,Electricity,Kilowatts,SolarEnergy,250,Virgin,Input,Portugal
+Running Shoes,Portugal,0.8,KG,Manufacturing,Assembling,Electricity,Kilowatts,WindEnergy,400,Virgin,Input,Portugal
+Running Shoes,Portugal,0.8,KG,Manufacturing,Packaging,Plastic,KG,RawMaterial,0.3,Virgin,Input,Germany
+Running Shoes,Portugal,0.8,KG,Manufacturing,Packaging,Cardboard,KG,RawMaterial,0.3,Virgin,Input,France
+Running Shoes,Portugal,0.8,KG,Transport,Material Transport,Polyester,Kilometers,SeaTransport,3000,Virgin,Input,Turkey
+Running Shoes,Portugal,0.8,KG,Transport,Material Transport,Nylon,Kilometers,LandTransport,1800,Virgin,Input,Germany
+Running Shoes,Portugal,0.8,KG,Transport,Material Transport,Cotton,Kilometers,SeaTransport,9000,Virgin,Input,India
+Running Shoes,Portugal,0.8,KG,Transport,Material Transport,Polyurethane,Kilometers,LandTransport,2000,Virgin,Input,Italy
+Running Shoes,Portugal,0.8,KG,Transport,Material Transport,EVA,Kilometers,LandTransport,1500,Virgin,Input,France
+Running Shoes,Portugal,0.8,KG,Transport,Material Transport,Diene rubber,Kilometers,SeaTransport,10000,Virgin,Input,Thailand
+Running Shoes,Portugal,0.8,KG,Transport,Material Transport,Natural rubber,Kilometers,SeaTransport,11000,Virgin,Input,Brazil
+Running Shoes,Portugal,0.8,KG,Transport,Material Transport,Polypropylene,Kilometers,LandTransport,2200,Virgin,Input,Poland
+Running Shoes,Portugal,0.8,KG,Transport,Material Transport,Pulp,Kilometers,LandTransport,2500,Virgin,Input,Sweden
+Name,Country,Weight,Unit,Process Type,ProductFlow Name,Flow Name,Unit,Category,Quantity,Tag,Type,Origin Country
+Running Shoes,Portugal,0.8,KG,RawMaterialProduction,Polyester Production,Petroleum,Liters,RawMaterial,0.3,Virgin,Input,Turkey
+Running Shoes,Portugal,0.8,KG,RawMaterialProduction,Nylon Production,Monomers,KG,RawMaterial,0.2,Virgin,Input,Germany
+Running Shoes,Portugal,0.8,KG,RawMaterialProduction,Cotton Cultivation,Cotton Production,SquareKilometers,LandOccupation,0.1,Virgin,Input,India
+Running Shoes,Portugal,0.8,KG,RawMaterialProduction,Polyurethane Production,Plastic Polymers,KG,RawMaterial,0.2,Virgin,Input,Italy
+Running Shoes,Portugal,0.8,KG,RawMaterialProduction,EVA Production,Ethylene,KG,RawMaterial,0.5,Virgin,Input,France
+Running Shoes,Portugal,0.8,KG,RawMaterialProduction,Diene Rubber Production,Copolymer Rubber,KG,RawMaterial,0.4,Virgin,Input,Thailand
+Running Shoes,Portugal,0.8,KG,RawMaterialProduction,Natural Rubber Cultivation,Natural rubber Production,SquareKilometers,LandOccupation,0.3,Virgin,Input,Brazil
+Running Shoes,Portugal,0.8,KG,RawMaterialProduction,Polypropylene Production,Propylene Gas,KG,RawMaterial,0.1,Virgin,Input,Poland
+Running Shoes,Portugal,0.8,KG,RawMaterialProduction,Pulp Production,Pulp Production,SquareKilometers,LandOccupation,0.2,Virgin,Input,Sweden
+Running Shoes,Portugal,0.8,KG,Manufacturing,Shoe Assembly,Leather,KG,RawMaterial,1.4,Virgin,Input,Italy
+Running Shoes,Portugal,0.8,KG,Manufacturing,Shoe Assembly,Rubber,SquareMeters,RawMaterial,1.2,Recycled,Input,Spain
+Running Shoes,Portugal,0.8,KG,Manufacturing,Shoe Assembly,Electricity,Kilowatts,HydroPowerEnergy,500,Virgin,Input,Portugal
+Running Shoes,Portugal,0.8,KG,Manufacturing,Cutting,Electricity,Kilowatts,SolarEnergy,300,Virgin,Input,Portugal
+Running Shoes,Portugal,0.8,KG,Manufacturing,Stitching,Electricity,Kilowatts,SolarEnergy,250,Virgin,Input,Portugal
+Running Shoes,Portugal,0.8,KG,Manufacturing,Assembling,Electricity,Kilowatts,WindEnergy,400,Virgin,Input,Portugal
+Running Shoes,Portugal,0.8,KG,Manufacturing,Packaging,Plastic,KG,RawMaterial,0.3,Virgin,Input,Germany
+Running Shoes,Portugal,0.8,KG,Manufacturing,Packaging,Cardboard,KG,RawMaterial,0.3,Virgin,Input,France
+Running Shoes,Portugal,0.8,KG,Transport,Material Transport,Polyester,Kilometers,SeaTransport,3000,Virgin,Input,Turkey
+Running Shoes,Portugal,0.8,KG,Transport,Material Transport,Nylon,Kilometers,LandTransport,1800,Virgin,Input,Germany
+Running Shoes,Portugal,0.8,KG,Transport,Material Transport,Cotton,Kilometers,SeaTransport,9000,Virgin,Input,India
+Running Shoes,Portugal,0.8,KG,Transport,Material Transport,Polyurethane,Kilometers,LandTransport,2000,Virgin,Input,Italy
+Running Shoes,Portugal,0.8,KG,Transport,Material Transport,EVA,Kilometers,LandTransport,1500,Virgin,Input,France
+Running Shoes,Portugal,0.8,KG,Transport,Material Transport,Diene rubber,Kilometers,SeaTransport,10000,Virgin,Input,Thailand
+Running Shoes,Portugal,0.8,KG,Transport,Material Transport,Natural rubber,Kilometers,SeaTransport,11000,Virgin,Input,Brazil
+Running Shoes,Portugal,0.8,KG,Transport,Material Transport,Polypropylene,Kilometers,LandTransport,2200,Virgin,Input,Poland
+Running Shoes,Portugal,0.8,KG,Transport,Material Transport,Pulp,Kilometers,LandTransport,2500,Virgin,Input,Sweden
+Name,Country,Weight,Unit,Process Type,ProductFlow Name,Flow Name,Unit,Category,Quantity,Tag,Type,Origin Country
+Running Shoes,Portugal,0.8,KG,RawMaterialProduction,Polyester Production,Petroleum,Liters,RawMaterial,0.3,Virgin,Input,Turkey
+Running Shoes,Portugal,0.8,KG,RawMaterialProduction,Nylon Production,Monomers,KG,RawMaterial,0.2,Virgin,Input,Germany
+Running Shoes,Portugal,0.8,KG,RawMaterialProduction,Cotton Cultivation,Cotton Production,SquareKilometers,LandOccupation,0.1,Virgin,Input,India
+Running Shoes,Portugal,0.8,KG,RawMaterialProduction,Polyurethane Production,Plastic Polymers,KG,RawMaterial,0.2,Virgin,Input,Italy
+Running Shoes,Portugal,0.8,KG,RawMaterialProduction,EVA Production,Ethylene,KG,RawMaterial,0.5,Virgin,Input,France
+Running Shoes,Portugal,0.8,KG,RawMaterialProduction,Diene Rubber Production,Copolymer Rubber,KG,RawMaterial,0.4,Virgin,Input,Thailand
+Running Shoes,Portugal,0.8,KG,RawMaterialProduction,Natural Rubber Cultivation,Natural rubber Production,SquareKilometers,LandOccupation,0.3,Virgin,Input,Brazil
+Running Shoes,Portugal,0.8,KG,RawMaterialProduction,Polypropylene Production,Propylene Gas,KG,RawMaterial,0.1,Virgin,Input,Poland
+Running Shoes,Portugal,0.8,KG,RawMaterialProduction,Pulp Production,Pulp Production,SquareKilometers,LandOccupation,0.2,Virgin,Input,Sweden
+Running Shoes,Portugal,0.8,KG,Manufacturing,Shoe Assembly,Leather,KG,RawMaterial,1.4,Virgin,Input,Italy
+Running Shoes,Portugal,0.8,KG,Manufacturing,Shoe Assembly,Rubber,SquareMeters,RawMaterial,1.2,Recycled,Input,Spain
+Running Shoes,Portugal,0.8,KG,Manufacturing,Shoe Assembly,Electricity,Kilowatts,HydroPowerEnergy,500,Virgin,Input,Portugal
+Running Shoes,Portugal,0.8,KG,Manufacturing,Cutting,Electricity,Kilowatts,SolarEnergy,300,Virgin,Input,Portugal
+Running Shoes,Portugal,0.8,KG,Manufacturing,Stitching,Electricity,Kilowatts,SolarEnergy,250,Virgin,Input,Portugal
+Running Shoes,Portugal,0.8,KG,Manufacturing,Assembling,Electricity,Kilowatts,WindEnergy,400,Virgin,Input,Portugal
+Running Shoes,Portugal,0.8,KG,Manufacturing,Packaging,Plastic,KG,RawMaterial,0.3,Virgin,Input,Germany
+Running Shoes,Portugal,0.8,KG,Manufacturing,Packaging,Cardboard,KG,RawMaterial,0.3,Virgin,Input,France
+Running Shoes,Portugal,0.8,KG,Transport,Material Transport,Polyester,Kilometers,SeaTransport,3000,Virgin,Input,Turkey
+Running Shoes,Portugal,0.8,KG,Transport,Material Transport,Nylon,Kilometers,LandTransport,1800,Virgin,Input,Germany
+Running Shoes,Portugal,0.8,KG,Transport,Material Transport,Cotton,Kilometers,SeaTransport,9000,Virgin,Input,India
+Running Shoes,Portugal,0.8,KG,Transport,Material Transport,Polyurethane,Kilometers,LandTransport,2000,Virgin,Input,Italy
+Running Shoes,Portugal,0.8,KG,Transport,Material Transport,EVA,Kilometers,LandTransport,1500,Virgin,Input,France
+Running Shoes,Portugal,0.8,KG,Transport,Material Transport,Diene rubber,Kilometers,SeaTransport,10000,Virgin,Input,Thailand
+Running Shoes,Portugal,0.8,KG,Transport,Material Transport,Natural rubber,Kilometers,SeaTransport,11000,Virgin,Input,Brazil
+Running Shoes,Portugal,0.8,KG,Transport,Material Transport,Polypropylene,Kilometers,LandTransport,2200,Virgin,Input,Poland
+Running Shoes,Portugal,0.8,KG,Transport,Material Transport,Pulp,Kilometers,LandTransport,2500,Virgin,Input,Sweden

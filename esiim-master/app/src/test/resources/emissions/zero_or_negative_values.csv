@@ -1,0 +1,32 @@
+Name,Category,Unit,Quantity,EmissionFactor
+Wind Turbine,WindEnergy,Kilowatts,-1,0.291
+Hydro Plant,HydroPowerEnergy,Kilowatts,1,0.203
+Solar Panel,SolarEnergy,Kilowatts,1,0.091
+Natural Gas Plant,NaturalGasEnergy,Kilowatts,1,0.236
+Biomass Plant,BiomassEnergy,Kilowatts,1.0,0.13
+Nuclear Plant,RadioactiveEnergy,Kilowatts,1.0,0.15
+Land,LandTransport,Kilometers,1,0.15
+Air,AirTransport,Kilometers,1,0.255
+Sea,SeaTransport,Kilometers,1,0.08
+Polyester,RawMaterial,KG,1,2.56
+Nylon,RawMaterial,KG,1,6.30
+Cotton,RawMaterial,KG,1,0.43
+Polyurethane,RawMaterial,KG,1,5.20
+EVA,RawMaterial,KG,1,3.00
+Diene rubber,RawMaterial,KG,1,2.10
+Natural rubber,RawMaterial,KG,1,1.90
+Polypropylene,RawMaterial,KG,1,1.74
+Pulp,RawMaterial,KG,1,0.95
+Leather,RawMaterial,KG,1,17.60
+Rubber,RawMaterial,KG,1,2.10
+Plastic,RawMaterial,KG,1,2.50
+Cardboard,RawMaterial,KG,1,1.20
+Petroleum,RawMaterial,Liters,1,2.50
+Monomers,RawMaterial,KG,1,6.00
+Cotton Production,LandOccupation,SquareKilometers,1,0.10
+Plastic Polymers,RawMaterial,KG,1,5.00
+Ethylene,RawMaterial,KG,1,3.00
+Copolymer Rubber,RawMaterial,KG,1,2.00
+Natural rubber Production,LandOccupation,SquareKilometers,1,0.30
+Propylene Gas,RawMaterial,KG,1,1.70
+Pulp Production,LandOccupation,SquareKilometers,1,0.20
